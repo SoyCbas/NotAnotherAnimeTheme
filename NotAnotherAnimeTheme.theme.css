@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(69, 12, 3);
+  --main-theme-color: rgb(67, 181, 129);
 
   /*
     Main Theme Transparency
@@ -35,12 +35,19 @@
 
   /*
     Home Icon Image
-  
-  
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://blackandyellowotakugamers.com/wp-content/uploads/2019/02/Kaguya-Sama-Discord-Proper-Proper.png);
+
+  /*
+    Change your friends icon image position
+  */
   --home-icon-image-position: center center;
+
+  /*
+    Change your friends icon image zoom
+  */
   --home-icon-image-zoom: 100%;
+
   /*
     Server Listing Width
     Single Column:  62px
