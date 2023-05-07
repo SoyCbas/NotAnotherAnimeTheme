@@ -39,23 +39,13 @@
   --home-icon-image: url(https://media.tenor.com/VeEiEvdzMjwAAAAC/kaguya-shinomiya-kaguya-shinomiya-dance.gif);
 
   /*
-    Change your friends icon image position
-  */
-  --home-icon-image-position: center center;
-
-  /*
-    Change your friends icon image zoom
-  */
-  --home-icon-image-zoom: 100%;
-
-  /*
     Server Listing Width
     Single Column:  62px
     Double Column:  126px
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
